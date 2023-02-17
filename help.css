@@ -1,0 +1,64 @@
+#all{
+    display: flex;
+    justify-content: center;
+}
+
+#title{
+    position: absolute;
+    top: 0;
+    align-self: center;
+    font-family: Tajawal;
+    font-size: 200%;
+    font-weight: medium;
+}
+
+#title-how{
+    position: absolute;
+    top: 120px;
+    right: 50%;
+    left: 50%;
+    font-family: Tajawal;
+    font-size: 20px;
+}
+#tip{
+  position: absolute;
+  top: 150px;
+  right: 10%;
+  font-family: Tajawal;
+  font-size: 20px;
+}
+
+
+#all{
+    display: flex;
+    flex-direction: column;
+
+}
+
+body {
+    background-color: 	rgb(217, 217, 217);
+  }
+  
+  
+  #search{
+    position: absolute;
+    right: 2%;
+    top: 30%;
+    height: 50%;
+  }
+  #send{
+   position: absolute;
+    bottom: 20px;
+    height:40%;
+    left: 50px;
+    
+  } 
+   #heart{
+    height: 300px;
+    position: absolute;
+    top: 90px;
+   
+  }
+
+
+

@@ -1,0 +1,20 @@
+#kw1{
+position: fixed;
+border-radius: 100000px;
+right: 0;
+animation: up 5s forwards;
+}
+#kw2{
+    position: fixed;
+    border-radius: 100000px;
+    right: 230px;
+    animation: up 5s loop;
+    }
+    @keyframes up{
+        from{
+            transform: translate(1366,10);
+        }
+        to{
+            transform: translate(1366,767);
+        }
+    }

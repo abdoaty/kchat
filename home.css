@@ -1,0 +1,12 @@
+html{
+    scroll-behavior: smooth;
+    
+    
+}
+body{
+    margin: 0px;
+    background-image: url("Flag.jpg");
+    background-attachment:fixed ;
+    background-size: 100% 100%;
+
+}

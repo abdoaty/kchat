@@ -1,0 +1,472 @@
+.pome{
+    position:fixed;
+    top:0 ;
+    left: 0;
+    right: 0;
+    height: 7%;
+}
+#Egypt{
+    background-image: url("egypt.jpg");
+    height: 30px;
+    width: 40px;
+    background-size: cover;
+    margin-left: 10px ;
+    border-width:0px;
+    margin-top:7px ;
+    
+    border-radius: 3px; ;
+}
+#Egypt:hover{
+    opacity: 0.7;
+}
+#Egypt:active{
+    opacity: 0.5;
+
+
+
+}#Algeria{
+    background-image: url("Algeria.jpg");
+    height: 30px;
+    width: 40px;
+    background-size: cover;
+    border-width:0px;
+    margin-top:7px ;
+    border-radius: 3px; ;
+    margin-left: 3px;
+}
+#Algeria:hover{
+    opacity: 0.7;
+}
+
+#Algeria:active{
+    opacity: 0.5;
+}
+
+#Sudan{
+    background-image: url("Sudan.jpg");
+    height: 30px;
+    width: 40px;
+    background-size: cover;
+    border-width:0px;
+    margin-top:7px ;
+    margin-left: 3px;
+    border-radius: 3px; ;
+}
+#Sudan:hover{
+    opacity: 0.7;
+}
+#Sudan:active{
+    opacity: 0.5;
+}
+
+
+
+#Iraq{
+    background-image: url("Iraq.jpg");
+    height: 30px;
+    width: 40px;
+    background-size: cover;
+    margin-left: 3px;
+    border-width:0px;
+    margin-top:7px ;
+    
+    border-radius: 3px; ;
+}
+#Iraq:hover{
+    opacity: 0.7;
+}
+#Iraq:active{
+    opacity: 0.5;
+}
+
+
+
+#Morocco{
+    background-image: url("Morocco.jpg");
+    height: 30px;
+    width: 40px;
+    background-size: cover;
+    margin-left: 3px;
+    border-width:0px;
+    margin-top:7px ;
+    
+    border-radius: 3px; ;
+}
+#Morocco:hover{
+    opacity: 0.7;
+}
+#Morocco:active{
+    opacity: 0.5;
+}
+
+
+
+
+
+#Saudi{
+    background-image: url("Saudi.jpg");
+    height: 30px;
+    width: 40px;
+    background-size: cover;
+    margin-left: 3px;
+    border-width:0px;
+    margin-top:7px ;
+    
+    border-radius: 3px; ;
+}
+#Saudi:hover{
+    opacity: 0.7;
+}
+#Saudi:active{
+    opacity: 0.5;
+}
+
+
+
+
+
+#Yemen{
+    background-image: url("Yemen.jpg");
+    height: 30px;
+    width: 40px;
+    background-size: cover;
+    margin-left: 3px;
+    border-width:0px;
+    margin-top:7px ;
+    
+    border-radius: 3px; ;
+}
+#Yemen:hover{
+    opacity: 0.7;
+}
+#Yemen:active{
+    opacity: 0.5;
+}
+
+
+
+
+
+
+#Syria{
+    background-image: url("Syria.jpg");
+    height: 30px;
+    width: 40px;
+    background-size: cover;
+    margin-left: 3px;
+    border-width:0px;
+    margin-top:7px ;
+    
+    border-radius: 3px; ;
+}
+#Syria:hover{
+    opacity: 0.7;
+}
+#Syria:active{
+    opacity: 0.5;
+}
+
+
+
+
+
+#Somalia{
+    background-image: url("Somalia.jpg");
+    height: 30px;
+    width: 40px;
+    background-size: cover;
+    margin-left: 3px;
+    border-width:0px;
+    margin-top:7px ;
+    
+    border-radius: 3px; ;
+}
+#Somalia:hover{
+    opacity: 0.7;
+}
+#Somalia:active{
+    opacity: 0.5;
+}
+
+
+
+
+
+#Tunisia{
+    background-image: url("Tunisia.jpg");
+    height: 30px;
+    width: 40px;
+    background-size: cover;
+    margin-left: 3px;
+    border-width:0px;
+    margin-top:7px ;
+    
+    border-radius: 3px; ;
+}
+#Tunisia:hover{
+    opacity: 0.7;
+}
+#Tunisia:active{
+    opacity: 0.5;
+}
+
+
+
+
+#Jordan{
+    background-image: url("jordan.jpg");
+    height: 30px;
+    width: 40px;
+    background-size: cover;
+    margin-left: 3px;
+    border-width:0px;
+    margin-top:7px ;
+    
+    border-radius: 3px; ;
+}
+#Jordan:hover{
+    opacity: 0.7;
+}
+#Jordan:active{
+    opacity: 0.5;
+}
+
+
+
+
+
+#UAE{
+    background-image: url("UAE.jpg");
+    height: 30px;
+    width: 40px;
+    background-size: cover;
+    margin-left: 3px;
+    border-width:0px;
+    margin-top:7px ;
+    
+    border-radius: 3px; ;
+}
+#UAE:hover{
+    opacity: 0.7;
+}
+#UAE:active{
+    opacity: 0.5;
+}
+
+
+
+
+#lebanon{
+    background-image: url("lebanon.jpg");
+    height: 30px;
+    width: 40px;
+    background-size: cover;
+    margin-left: 3px;
+    border-width:0px;
+    margin-top:7px ;
+    
+    border-radius: 3px; ;
+}
+#lebanon:hover{
+    opacity: 0.7;
+}
+#lebanon:active{
+    opacity: 0.5;
+}
+
+
+
+#libya{
+    background-image: url("libya.jpg");
+    height: 30px;
+    width: 40px;
+    background-size: cover;
+    margin-left: 3px;
+    border-width:0px;
+    margin-top:7px ;
+    
+    border-radius: 3px; ;
+}
+#libya:hover{
+    opacity: 0.7;
+}
+#libya:active{
+    opacity: 0.5;
+}
+
+
+
+
+#Palestine{
+    background-image: url("Palestine.jpg");
+    height: 30px;
+    width: 40px;
+    background-size: cover;
+    margin-left: 3px;
+    border-width:0px;
+    margin-top:7px ;
+    
+    border-radius: 3px; ;
+}
+#Palestine:hover{
+    opacity: 0.7;
+}
+#Palestine:active{
+    opacity: 0.5;
+}
+
+
+
+#oman{
+    background-image: url("oman.png");
+    height: 30px;
+    width: 40px;
+    background-size: cover;
+    border-width:0px;
+    margin-top:7px ;
+    margin-left: 3px;
+    border-radius: 3px; ;
+}
+#oman:hover{
+    opacity: 0.7;
+}
+#oman:active{
+    opacity: 0.5;
+}
+
+
+
+
+#Mauritania{
+    background-image: url("Mauritania.jpg");
+    height: 30px;
+    width: 40px;
+    background-size: cover;
+    margin-left: 3px;
+    border-width:0px;
+    margin-top:7px ;
+    
+    border-radius: 3px; ;
+}
+#Mauritania:hover{
+    opacity: 0.7;
+}
+#Mauritania:active{
+    opacity: 0.5;
+}
+
+
+
+
+#Kuwait{
+    background-image: url("kw.jpg");
+    height: 30px;
+    width: 40px;
+    background-size: cover;
+    margin-left: 3px;
+    border-width:0px;
+    margin-top:7px ;
+    
+    border-radius: 3px; ;
+}
+#Kuwait:hover{
+    opacity: 0.7;
+}
+#Kuwait:active{
+    opacity: 0.5;
+}
+
+
+
+#Qatar{
+    background-image: url("Qatar.jpg");
+    height: 30px;
+    width: 40px;
+    background-size: cover;
+    margin-left: 3px;
+    border-width:0px;
+    margin-top:7px ;
+    
+    border-radius: 3px; ;
+}
+#Qatar:hover{
+    opacity: 0.7;
+}
+#Qatar:active{
+    opacity: 0.5;
+}
+
+
+
+#Bahrain{
+    background-image: url("Bahrain.jpg");
+    height: 30px;
+    width: 40px;
+    background-size: cover;
+    margin-left: 3px;
+    border-width:0px;
+    margin-top:7px ;
+    
+    border-radius: 3px; ;
+}
+#Bahrain:hover{
+    opacity: 0.7;
+}
+#Bahrain:active{
+    opacity: 0.5;
+}
+
+
+
+#Djibouti{
+    background-image: url("Djibouti.jpg");
+    height: 30px;
+    width: 40px;
+    background-size: cover;
+    margin-left: 3px;
+    border-width:0px;
+    margin-top:7px ;
+    
+    border-radius: 3px; ;
+}
+#Djibouti:hover{
+    opacity: 0.7;
+}
+#Djibouti:active{
+    opacity: 0.5;
+}
+#Comoros{
+    background-image: url("Comoros.jpg");
+    height: 30px;
+    width: 40px;
+    background-size: cover;
+    margin-left: 3px;
+    border-width:0px;
+    margin-top:7px ;
+    
+    border-radius: 3px; ;
+}
+#Comoros:hover{
+    opacity: 0.7;
+}
+#Comoros:active{
+    opacity: 0.5;
+}
+#help{
+    background-color: rgb(217, 217, 217);
+    height: 90px;
+    width: 490px;
+    border-radius:10px ;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+    transition: opacity 0.5s;
+}
+#help:hover{
+    opacity: 0.7;
+}
+#help:active{
+    opacity: 0.3;
+}
+

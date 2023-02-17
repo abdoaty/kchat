@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ar">
+<header>
+    <title>kchat </title>
+    <link rel="stylesheet" href="chat.css">
+    <link rel="stylesheet" href="home.css">
+    <link rel="stylesheet" href="up bar.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700&family=Passions+Conflict&display=swap" rel="stylesheet">
+<link rel="icon" href="favicon.ico">
+</header>
+<body>
+    <!--chat full-->
+    <div class="content">
+        <div class="full-chat-block">
+            <!--message box-->
+            <div class="outer-container">
+                <div class="chat-container">
+                    <!--messages-->
+                    <div id="chatbox">
+                        <h5 id="chat-timestamp"></h5>
+                        <p id="botStarterMessage" class="botText"><span>Loading...</span></p>
+                    </div>
+                    <!--user box-->
+                    <div class="chat-bar-input-block" id="input-block">
+                        <div id="userInput"> 
+                            <input type="text" id="textInput" class="input-box" name="msg" placeholder= "اضغط لارسال الرسالة">
+                            <p></p>
+                    </div>
+                    <div class="chat-bar-icons">
+                    <i id="chat-icons" title="أعجبني" style="color: rgb(255, 0, 0)" class="fa fa-fw fa-heart"onclick="heartButton()"></i>
+                    <i id="chat-icons" title="أرسال" id="down" style= "color: rgb(47, 44, 44)" class="fa fa-fw fa-send"onclick="sendButton()"></i>
+                    </div>
+                </div>
+            </div>
+        <div id="chat-bar-bottom">
+            <p></p>"
+        </div>
+        </div>
+    </div>
+    <div class="pome">
+        <button id="Egypt" title="مصر"></button>
+        <button id="Algeria" title="الجزائر"></button>
+        <button id="Sudan" title="السودان"></button>
+        <button id="Iraq" title="العراق"></button>
+        <button id="Morocco" title="المغرب"></button>
+        <button id="Saudi" title="المملكة العربية السعودية"></button>
+        <button id="Yemen" title="اليمن"></button>
+        <button id="Syria" title="سوريا"></button>
+        <button id="Somalia" title="الصومال"></button>
+        <button id="Tunisia" title="تونس"></button>
+        <button id="Jordan" title="الأردن"></button>
+        <button id="UAE" title="الإمرات العربية المتحدة"></button>
+        <button id="lebanon" title="لبنان"></button>
+        <button id="Qatar" title="قطر"></button>
+        <button id="libya"title="ليبيا"></button>
+        <button id="Palestine" title="فلسطين"></button>
+        <button id="oman" title="عمان"></button>
+        <button id="Mauritania" title="موريتانيا"></button>
+        <button id="Kuwait" title="الكويت"></button>
+        <button id="Bahrain" title="البحرين"></button>
+        <button id="Djibouti" title="جيبوتي"></button>
+        <button id="Comoros" title="جزر القمر" ></button>
+        <a href="help.html" target="_blank" id="help">المساعدة</a>
+    </div>
+    <script src="chat.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="pome.js"></script>
+<script src="africa.js"></script>
+</body>
+<html> 
+    
